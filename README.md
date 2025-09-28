@@ -13,6 +13,7 @@ HW7/
 ├── requirements.txt # залежності
 └── .env             # DATABASE_URL
 
+
 Запуск
 pip install -r requirements.txt
 alembic upgrade head

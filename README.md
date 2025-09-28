@@ -1,7 +1,6 @@
 Домашнє завдання №7
 
 Робота з базою даних (SQLite / PostgreSQL), ORM SQLAlchemy, Alembic, Faker.
-
 Структура проєкту
 HW7/
 ├── alembic/         # міграції
